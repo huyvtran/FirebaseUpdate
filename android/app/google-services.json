@@ -1,0 +1,244 @@
+{
+  "project_info": {
+    "project_number": "961337908566",
+    "firebase_url": "https://abivin-clusters.firebaseio.com",
+    "project_id": "abivin-clusters",
+    "storage_bucket": "abivin-clusters.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961337908566:android:37a5e78fc9e8ed1c",
+        "android_client_info": {
+          "package_name": "com.abivin.vappx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961337908566-k501abvqv736g5cuucrdn32587bj32fr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abivin.vappx",
+            "certificate_hash": "e06b18e195b89b6dc4188a1b4820064fdade9370"
+          }
+        },
+        {
+          "client_id": "961337908566-67c1aktsu8o9qndc4ldr7ov7lsjqj835.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi6g1bs2mz1B2cgdBYXM_9gmR1evDL3nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961337908566-kb2i6himd3b0bbej84eab24g68frpfgb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "961337908566-il1jdilb8mvhp8oshp8pim0bjn8egguv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.abivin.vappy.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961337908566:android:4d0cac3a3d9863ac",
+        "android_client_info": {
+          "package_name": "com.abivin.vappx.snp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961337908566-67c1aktsu8o9qndc4ldr7ov7lsjqj835.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi6g1bs2mz1B2cgdBYXM_9gmR1evDL3nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961337908566-kb2i6himd3b0bbej84eab24g68frpfgb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "961337908566-il1jdilb8mvhp8oshp8pim0bjn8egguv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.abivin.vappy.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961337908566:android:6a162f8228e09f21",
+        "android_client_info": {
+          "package_name": "com.abivin.vappy.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961337908566-67c1aktsu8o9qndc4ldr7ov7lsjqj835.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi6g1bs2mz1B2cgdBYXM_9gmR1evDL3nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961337908566-kb2i6himd3b0bbej84eab24g68frpfgb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "961337908566-il1jdilb8mvhp8oshp8pim0bjn8egguv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.abivin.vappy.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961337908566:android:37a5e78fc9e8ed1c",
+        "android_client_info": {
+          "package_name": "com.abivin.vappx.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961337908566-k501abvqv736g5cuucrdn32587bj32fr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abivin.vappx",
+            "certificate_hash": "e06b18e195b89b6dc4188a1b4820064fdade9370"
+          }
+        },
+        {
+          "client_id": "961337908566-67c1aktsu8o9qndc4ldr7ov7lsjqj835.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi6g1bs2mz1B2cgdBYXM_9gmR1evDL3nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961337908566-kb2i6himd3b0bbej84eab24g68frpfgb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "961337908566-il1jdilb8mvhp8oshp8pim0bjn8egguv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.abivin.vappy.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961337908566:android:4d0cac3a3d9863ac",
+        "android_client_info": {
+          "package_name": "com.abivin.vappx.snp.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961337908566-67c1aktsu8o9qndc4ldr7ov7lsjqj835.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi6g1bs2mz1B2cgdBYXM_9gmR1evDL3nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961337908566-kb2i6himd3b0bbej84eab24g68frpfgb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "961337908566-il1jdilb8mvhp8oshp8pim0bjn8egguv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.abivin.vappy.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+    ,
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961337908566:android:4d0cac3a3d9863ac",
+        "android_client_info": {
+          "package_name": "com.abivin.vappx.snp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961337908566-67c1aktsu8o9qndc4ldr7ov7lsjqj835.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi6g1bs2mz1B2cgdBYXM_9gmR1evDL3nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961337908566-kb2i6himd3b0bbej84eab24g68frpfgb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "961337908566-il1jdilb8mvhp8oshp8pim0bjn8egguv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.abivin.vappy.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

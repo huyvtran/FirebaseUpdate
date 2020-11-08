@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">SNP Logistics</string>
+    <string name="appTracking">SNP Tracking</string>
+    <string name="appBundle">vapp.abivinh.com.snp</string>
+
+<!--    <string name="freshchat_file_provider_authority">com.abivin.vappx.snp.provider</string>-->
+
+</resources>

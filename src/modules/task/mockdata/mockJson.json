@@ -1,0 +1,116 @@
+{
+  "_id": "5a21365161dd35b20123b393",
+  "categoryIds": [
+    {
+      "_id": "5a21364461dd35b20123b34e",
+      "parentIds": [
+        "5a21364461dd35b20123b33d"
+      ],
+      "categoryType": "Brand",
+      "categoryName": "Oral-B",
+      "organizationId": "5869fd282448dc103e21556a",
+      "categoryCode": "B023"
+    }
+  ],
+  "createdAt": "2017-12-01T05:41:25.565Z",
+  "createdBy": "5869fcf12448dc103e215569",
+  "isDeleted": false,
+  "lifeSpan": 0,
+  "organizationId": "5869fd282448dc103e21556a",
+  "parentIds": [],
+  "productCode": "",
+  "productName": "ORAL-B BAN CHAI ULTRA THIN DUAL CLEAN 1S",
+  "serialCodes": {
+    "usedCodes": [],
+    "unusedCodes": []
+  },
+  "sku": "4902430678544",
+  "unit": "",
+  "volume": null,
+  "warrantyNumber": 0,
+  "warrantyType": "tháng",
+  "weight": null,
+  "startDate": "2018-01-01T00:00:00.000Z",
+  "endDate": "2020-12-30T00:00:00.000Z",
+  "quantity": 1,
+  "reserved": 0,
+  "picked": 0,
+  "onPOrder": 0,
+  "skuReference": [],
+  "atribute": null
+},
+
+{
+  "_id": "5a21365161dd35b20123b3ca",
+  "categoryIds": [
+    {
+    "_id": "5a21364461dd35b20123b34f",
+    "parentIds": [
+    "5a21364461dd35b20123b33f"
+    ],
+    "categoryType": "Brand",
+    "categoryName": "Whisper",
+    "organizationId": "5869fd282448dc103e21556a",
+    "categoryCode": "B024"
+    }
+  ],
+  "createdAt": "2017-12-01T05:41:25.565Z",
+  "createdBy": "5869fcf12448dc103e215569",
+  "isDeleted": false,
+  "lifeSpan": 0,
+  "organizationId": "5869fd282448dc103e21556a",
+  "parentIds": [],
+  "productCode": "",
+  "productName": "WHISPER BVS ULTRA REGULAR FLOW WING 24CM 10s",
+  "serialCodes": {
+    "usedCodes": [],
+    "unusedCodes": []
+  },
+  "sku": "4902430495905",
+  "unit": "",
+  "volume": null,
+  "warrantyNumber": 0,
+  "warrantyType": "tháng",
+  "weight": null,
+  "startDate": "2018-01-01T00:00:00.000Z",
+  "endDate": "2020-12-30T00:00:00.000Z",
+  "quantity": 37,
+  "reserved": 0,
+  "picked": 0,
+  "onPOrder": 0,
+  "skuReference": [],
+"atribute": null
+},
+{
+"attributeCode": "3",
+"directParentCode": "B023",
+"directParentName": "Oral-B",
+"entityCode": "4902430679640",
+"entityId": "5a21365161dd35b20123b42d",
+"entityName": "ORAL-B BAN CHAI COMPLETE MICROTHIN CLEAN 1S",
+"topParentCode": "C006",
+"topParentName": "Chăm sóc răng miệng",
+"value": "Yes",
+"_id": "5ab86f0832ebcfc47baf4418"
+}
+
+
+
+
+//taskID - CategoryCode - ProductID: Value
+{"5abc545a296540c825e329d5-B001-5ab86f0832ebcfc47baf4418": "1.2 Sợ bị mất, hư hàng"}
+{"5abc545a296540c825e329d5-B001-5ab86f0832ebcfc47baf4418": "Yes"}
+{"5abc545a296540c825e329d5-B001-5ab86f0832ebcfc47baf4418": "No"}
+
+
+{"5abc545a296540c825e329d5-photo": "[\"http://vapp.storage.googleapis.com/1522999852017_20640.jpg\"]"}
+{"5abc545a296540c825e329d5-note": "note !!!"}
+
+//taskID - CategoryCode - ProductID: Value
+{"5abc545a296540c825e329d5-B001-GONDOLAEND (ĐẦU KỆ)": "1.1"}
+{"5abc545a296540c825e329d5-B001-Fival-GONDOLAEND (ĐẦU KỆ)": "1.1"}
+
+{"5abc545a296540c825e329d5-B001": "1.1"}
+{"5abc545a296540c825e329d5-B001-Fival": "1.1"}
+
+

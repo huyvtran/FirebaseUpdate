@@ -1,0 +1,15 @@
+// Authenticate
+
+export const SIGN_IN_START = 'SIGN_IN_START';
+export const SIGN_IN_ERROR = 'SIGN_IN_ERROR';
+export const SIGN_IN_SUCCESS = 'SIGN_IN_SUCCESS';
+export const SIGN_IN_FINISH = 'SIGN_IN_FINISH';
+export const SIGN_IN_UN_SUCCESS = 'SIGN_IN_UN_SUCCESS';
+export const FETCH_USER_VEHICLE = 'FETCH_USER_VEHICLE';
+export const FETCH_ORG_CONFIG = 'FETCH_ORG_CONFIG';
+export const TOKEN_KEY = 'TOKEN_KEY';
+export const READ_USER_SUCCESS = 'READ_USER_SUCCCESS';
+export const LOAD_SIGN_IN = 'LOAD_SIGN_IN';
+export const FETCH_DATA_AFTER_SIGN_IN = 'FETCH_DATA_AFTER_SIGN_IN';
+export const USER_LOGOUT = 'USER_LOGOUT';
+

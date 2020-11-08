@@ -1,0 +1,493 @@
+{
+    "totalLength": 127,
+    "data": [
+        {
+            "_id": "5a1799c375b568c137d3aed8",
+            "__v": 0,
+            "purchase": false,
+            "totalVolume": 0,
+            "totalWeight": 9.85,
+            "isDeleted": false,
+            "skuList": [
+                {
+                    "sku": "82274520",
+                    "productDetail": "Product ABX001",
+                    "serviceTime": 0,
+                    "numberPerCase": 1,
+                    "numberOfCase": 1,
+                    "numberOfItem": 0,
+                    "weight": 9.85,
+                    "volume": 0,
+                    "numberOfItemDelivered": 0,
+                    "numberOfCaseDelivered": 1,
+                    "itemPrice": 0,
+                    "casePrice": 0,
+                    "SKUWeight": 9.85,
+                    "SKUVolume": 0,
+                    "SKUPrice": 0,
+                    "SKU_ID": "SKU1",
+                    "_id": null
+                }
+            ],
+            "depotOrder": false,
+            "scheduleOrder": false,
+            "lateOrder": false,
+            "receivedTotalPrice": 0,
+            "totalPrice": 2826849,
+            "IMVDPromotion": 0,
+            "promotionDiscount": 306313.7,
+            "saleDiscount": 0,
+            "customerDiscount": 0,
+            "taxCode": "",
+            "deliveryDate": "2017-11-22T17:00:00.000Z",
+            "createdAt": "2017-11-24T04:02:11.215Z",
+            "customerInfo": {
+                "coordinate": {
+                    "longitude": 0,
+                    "latitude": 0
+                },
+                "stressAddress": "",
+                "mobileNumber": "0192382139",
+                "fullName": "Chi Ha",
+                "title": "Chị",
+                "customerCode": "D23187",
+                "_id": "5a16ac8b3af8281d37f0c18c"
+            },
+            "saleInfo": {
+                "mobileNumber": "",
+                "fullName": "VS064",
+                "username": "VS064",
+                "_id": null
+            },
+            "orderCode": "OD0001",
+            "organizationId": "5a16a67b3af8281d37f0c176"
+        },
+        {
+            "_id": "5a1799c375b568c137d3aed9",
+            "__v": 0,
+            "purchase": false,
+            "totalVolume": 0,
+            "totalWeight": 9.85,
+            "isDeleted": false,
+            "skuList": [
+                {
+                    "sku": "82274520",
+                    "productDetail": "Product ABX002",
+                    "serviceTime": 0,
+                    "numberPerCase": 1,
+                    "numberOfCase": 1,
+                    "numberOfItem": 0,
+                    "weight": 9.85,
+                    "volume": 0,
+                    "numberOfItemDelivered": 0,
+                    "numberOfCaseDelivered": 1,
+                    "itemPrice": 0,
+                    "casePrice": 0,
+                    "SKUWeight": 9.85,
+                    "SKUVolume": 0,
+                    "SKUPrice": 0,
+                    "SKU_ID": "SKU2",
+                    "_id": null
+                }
+            ],
+            "depotOrder": false,
+            "scheduleOrder": false,
+            "lateOrder": false,
+            "receivedTotalPrice": 0,
+            "totalPrice": 2826849,
+            "IMVDPromotion": 0,
+            "promotionDiscount": 306313.7,
+            "saleDiscount": 0,
+            "customerDiscount": 0,
+            "taxCode": "",
+            "deliveryDate": "2017-11-22T17:00:00.000Z",
+            "createdAt": "2017-11-24T04:02:11.222Z",
+            "customerInfo": {
+                "coordinate": {
+                    "longitude": 0,
+                    "latitude": 0
+                },
+                "stressAddress": "",
+                "mobileNumber": "01471237182",
+                "fullName": "THIEN TAM",
+                "title": "Anh",
+                "customerCode": "D23180",
+                "_id": "5a177ade3af8281d37f0d66e"
+            },
+            "saleInfo": {
+                "mobileNumber": "",
+                "fullName": "VS064",
+                "username": "VS064",
+                "_id": null
+            },
+            "orderCode": "OD0002",
+            "organizationId": "5a16a67b3af8281d37f0c176"
+        },
+        {
+            "_id": "5a1799c375b568c137d3aeda",
+            "__v": 0,
+            "purchase": false,
+            "totalVolume": 0,
+            "totalWeight": 9.85,
+            "isDeleted": false,
+            "skuList": [
+                {
+                    "sku": "82274520",
+                    "productDetail": "Product ABX003",
+                    "serviceTime": 0,
+                    "numberPerCase": 1,
+                    "numberOfCase": 1,
+                    "numberOfItem": 0,
+                    "weight": 9.85,
+                    "volume": 0,
+                    "numberOfItemDelivered": 0,
+                    "numberOfCaseDelivered": 1,
+                    "itemPrice": 0,
+                    "casePrice": 0,
+                    "SKUWeight": 9.85,
+                    "SKUVolume": 0,
+                    "SKUPrice": 0,
+                    "SKU_ID": "SKU3",
+                    "_id": null
+                }
+            ],
+            "depotOrder": false,
+            "scheduleOrder": false,
+            "lateOrder": false,
+            "receivedTotalPrice": 0,
+            "totalPrice": 2826849,
+            "IMVDPromotion": 0,
+            "promotionDiscount": 306313.7,
+            "saleDiscount": 0,
+            "customerDiscount": 0,
+            "taxCode": "",
+            "deliveryDate": "2017-11-22T17:00:00.000Z",
+            "createdAt": "2017-11-24T04:02:11.223Z",
+            "customerInfo": {
+                "coordinate": {
+                    "longitude": 0,
+                    "latitude": 0
+                },
+                "stressAddress": "",
+                "mobileNumber": "014712371823",
+                "fullName": "CO SANG",
+                "title": "Co",
+                "customerCode": "D26063",
+                "_id": "5a177ade3af8281d37f0d66f"
+            },
+            "saleInfo": {
+                "mobileNumber": "",
+                "fullName": "VS064",
+                "username": "VS064",
+                "_id": null
+            },
+            "orderCode": "OD0003",
+            "organizationId": "5a16a67b3af8281d37f0c176"
+        },
+        {
+            "_id": "5a17dc5a03c86eb368593aae",
+            "__v": 0,
+            "purchase": false,
+            "totalVolume": 0.02,
+            "totalWeight": 4.4,
+            "isDeleted": false,
+            "skuList": [
+                {
+                    "sku": "32717007A",
+                    "productDetail": "KM ORALB_BINH DUN SIEU TOC(8.17)",
+                    "serviceTime": 0,
+                    "numberPerCase": 1,
+                    "numberOfCase": 1,
+                    "numberOfItem": 0,
+                    "weight": 4.4,
+                    "volume": 0.02,
+                    "numberOfItemDelivered": 0,
+                    "numberOfCaseDelivered": 1,
+                    "itemPrice": 363000,
+                    "casePrice": 363000,
+                    "SKUWeight": 4.4,
+                    "SKUVolume": 0.02,
+                    "SKUPrice": 363000,
+                    "SKU_ID": "SKU1",
+                    "_id": null
+                }
+            ],
+            "depotOrder": false,
+            "scheduleOrder": false,
+            "lateOrder": false,
+            "receivedTotalPrice": 0,
+            "totalPrice": 3454374,
+            "IMVDPromotion": -500000,
+            "promotionDiscount": 239661.4,
+            "saleDiscount": 0,
+            "customerDiscount": 0,
+            "taxCode": "",
+            "deliveryDate": "2017-11-24T17:00:00.000Z",
+            "createdAt": "2017-11-24T08:46:18.895Z",
+            "customerInfo": {
+                "coordinate": {
+                    "longitude": 0,
+                    "latitude": 0
+                },
+                "stressAddress": "",
+                "mobileNumber": "1234567",
+                "fullName": "Chi Ha",
+                "title": null,
+                "customerCode": "D23187",
+                "_id": "5a16ac8b3af8281d37f0c18c"
+            },
+            "saleInfo": {
+                "mobileNumber": "",
+                "fullName": "DN021",
+                "username": "DN021",
+                "_id": null
+            },
+            "orderCode": "S0049832",
+            "organizationId": "5a16a67b3af8281d37f0c176"
+        },
+        {
+            "_id": "5a17dc5a03c86eb368593aaf",
+            "__v": 0,
+            "purchase": false,
+            "totalVolume": 0.08,
+            "totalWeight": 17.6,
+            "isDeleted": false,
+            "skuList": [
+                {
+                    "sku": "32717010A",
+                    "productDetail": "KM TIDE_Bo 1binh 2ly thuy tinh(10.17)",
+                    "serviceTime": 0,
+                    "numberPerCase": 1,
+                    "numberOfCase": 4,
+                    "numberOfItem": 0,
+                    "weight": 4.4,
+                    "volume": 0.02,
+                    "numberOfItemDelivered": 0,
+                    "numberOfCaseDelivered": 4,
+                    "itemPrice": 363000,
+                    "casePrice": 363000,
+                    "SKUWeight": 17.6,
+                    "SKUVolume": 0.08,
+                    "SKUPrice": 1452000,
+                    "SKU_ID": "SKU2",
+                    "_id": null
+                }
+            ],
+            "depotOrder": false,
+            "scheduleOrder": false,
+            "lateOrder": false,
+            "receivedTotalPrice": 0,
+            "totalPrice": 3454374,
+            "IMVDPromotion": -500000,
+            "promotionDiscount": 239661.4,
+            "saleDiscount": 0,
+            "customerDiscount": 0,
+            "taxCode": "",
+            "deliveryDate": "2017-11-24T17:00:00.000Z",
+            "createdAt": "2017-11-24T08:46:18.904Z",
+            "customerInfo": {
+                "coordinate": {
+                    "longitude": 0,
+                    "latitude": 0
+                },
+                "stressAddress": "",
+                "mobileNumber": "1234567",
+                "fullName": "THIEN TAM",
+                "title": null,
+                "customerCode": "D23180",
+                "_id": "5a177ade3af8281d37f0d66e"
+            },
+            "saleInfo": {
+                "mobileNumber": "",
+                "fullName": "DN022",
+                "username": "DN022",
+                "_id": null
+            },
+            "orderCode": "S0049833",
+            "organizationId": "5a16a67b3af8281d37f0c176"
+        },
+        {
+            "_id": "5a17dc5a03c86eb368593ab0",
+            "__v": 0,
+            "purchase": false,
+            "totalVolume": 0.02,
+            "totalWeight": 4.4,
+            "isDeleted": false,
+            "skuList": [
+                {
+                    "sku": "TB3SAO",
+                    "productDetail": "TB 3 SAO TRA THUONG 500.000",
+                    "serviceTime": 0,
+                    "numberPerCase": 1,
+                    "numberOfCase": 1,
+                    "numberOfItem": 0,
+                    "weight": 4.4,
+                    "volume": 0.02,
+                    "numberOfItemDelivered": 0,
+                    "numberOfCaseDelivered": 1,
+                    "itemPrice": 363000,
+                    "casePrice": 363000,
+                    "SKUWeight": 4.4,
+                    "SKUVolume": 0.02,
+                    "SKUPrice": 363000,
+                    "SKU_ID": "SKU3",
+                    "_id": null
+                }
+            ],
+            "depotOrder": false,
+            "scheduleOrder": false,
+            "lateOrder": false,
+            "receivedTotalPrice": 0,
+            "totalPrice": 3454374,
+            "IMVDPromotion": -500000,
+            "promotionDiscount": 239661.4,
+            "saleDiscount": 0,
+            "customerDiscount": 0,
+            "taxCode": "",
+            "deliveryDate": "2017-11-24T17:00:00.000Z",
+            "createdAt": "2017-11-24T08:46:18.906Z",
+            "customerInfo": {
+                "coordinate": {
+                    "longitude": 0,
+                    "latitude": 0
+                },
+                "stressAddress": "",
+                "mobileNumber": "1234567",
+                "fullName": "OANH HIEN",
+                "title": null,
+                "customerCode": "D23067",
+                "_id": "5a17d5c037fceea0abc5a70b"
+            },
+            "saleInfo": {
+                "mobileNumber": "",
+                "fullName": "DN023",
+                "username": "DN023",
+                "_id": null
+            },
+            "orderCode": "S0049855",
+            "organizationId": "5a16a67b3af8281d37f0c176"
+        },
+        {
+            "_id": "5a17dc5a03c86eb368593ab1",
+            "__v": 0,
+            "purchase": false,
+            "totalVolume": 0.02,
+            "totalWeight": 4.4,
+            "isDeleted": false,
+            "skuList": [
+                {
+                    "sku": "TB3SAO",
+                    "productDetail": "TB 3 SAO TRA THUONG 500.000",
+                    "serviceTime": 0,
+                    "numberPerCase": 1,
+                    "numberOfCase": 1,
+                    "numberOfItem": 0,
+                    "weight": 4.4,
+                    "volume": 0.02,
+                    "numberOfItemDelivered": 0,
+                    "numberOfCaseDelivered": 1,
+                    "itemPrice": 363000,
+                    "casePrice": 363000,
+                    "SKUWeight": 4.4,
+                    "SKUVolume": 0.02,
+                    "SKUPrice": 363000,
+                    "SKU_ID": "SKU4",
+                    "_id": null
+                }
+            ],
+            "depotOrder": false,
+            "scheduleOrder": false,
+            "lateOrder": false,
+            "receivedTotalPrice": 0,
+            "totalPrice": 2543126,
+            "IMVDPromotion": -500000,
+            "promotionDiscount": 282449.2,
+            "saleDiscount": 0,
+            "customerDiscount": 0,
+            "taxCode": "",
+            "deliveryDate": "2017-11-24T17:00:00.000Z",
+            "createdAt": "2017-11-24T08:46:18.908Z",
+            "customerInfo": {
+                "coordinate": {
+                    "longitude": 0,
+                    "latitude": 0
+                },
+                "stressAddress": "",
+                "mobileNumber": "1234567",
+                "fullName": "MY LE",
+                "title": null,
+                "customerCode": "D24204",
+                "_id": "5a17d5f837fceea0abc5b6ea"
+            },
+            "saleInfo": {
+                "mobileNumber": "",
+                "fullName": "DN029",
+                "username": "DN029",
+                "_id": null
+            },
+            "orderCode": "S0049922",
+            "organizationId": "5a16a67b3af8281d37f0c176"
+        },
+        {
+            "_id": "5a17dc5a03c86eb368593ab2",
+            "__v": 0,
+            "purchase": false,
+            "totalVolume": 0.04,
+            "totalWeight": 8.8,
+            "isDeleted": false,
+            "skuList": [
+                {
+                    "sku": "32717010A",
+                    "productDetail": "KM TIDE_Bo 1binh 2ly thuy tinh(10.17)",
+                    "serviceTime": 0,
+                    "numberPerCase": 1,
+                    "numberOfCase": 2,
+                    "numberOfItem": 0,
+                    "weight": 4.4,
+                    "volume": 0.02,
+                    "numberOfItemDelivered": 0,
+                    "numberOfCaseDelivered": 2,
+                    "itemPrice": 363000,
+                    "casePrice": 363000,
+                    "SKUWeight": 8.8,
+                    "SKUVolume": 0.04,
+                    "SKUPrice": 726000,
+                    "SKU_ID": "SKU5",
+                    "_id": null
+                }
+            ],
+            "depotOrder": false,
+            "scheduleOrder": false,
+            "lateOrder": false,
+            "receivedTotalPrice": 0,
+            "totalPrice": 2543126,
+            "IMVDPromotion": -500000,
+            "promotionDiscount": 282449.2,
+            "saleDiscount": 0,
+            "customerDiscount": 0,
+            "taxCode": "",
+            "deliveryDate": "2017-11-24T17:00:00.000Z",
+            "createdAt": "2017-11-24T08:46:18.911Z",
+            "customerInfo": {
+                "coordinate": {
+                    "longitude": 0,
+                    "latitude": 0
+                },
+                "stressAddress": "",
+                "mobileNumber": "1234567",
+                "fullName": "THANH HIEN",
+                "title": null,
+                "customerCode": "D23237",
+                "_id": "5a17d5fa37fceea0abc5b749"
+            },
+            "saleInfo": {
+                "mobileNumber": "",
+                "fullName": "DN021",
+                "username": "DN021",
+                "_id": null
+            },
+            "orderCode": "S0049923",
+            "organizationId": "5a16a67b3af8281d37f0c176"
+        }
+    ]
+}

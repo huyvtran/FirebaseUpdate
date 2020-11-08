@@ -1,0 +1,17 @@
+
+// form
+export const ADD_FORM = 'ADD_FORM'; // add to store with every Component
+export const SUBMIT_FORM_RESET = 'SUBMIT_FORM_RESET';
+export const SUBMIT_FORM_UN_SUCCESS = 'SUBMIT_FORM_UN_SUCCESS';
+export const SUBMIT_FORM_ERROR = 'SUBMIT_FORM_ERROR';
+
+export const EDIT_FORM = 'EDIT_FORM';
+export const FETCH_FORM = 'FETCH_FORM';
+export const VALIDATE = 'VALIDATE';
+export const SUBMIT_FORM_SUCCESS = 'SUBMIT_FORM_SUCCESS';
+export const RESET_FORM = 'RESET_FORM';
+
+export const CHECK_SUBMIT_SUCCESS = 'CHECK_SUBMIT_SUCCESS';
+export const ON_CHANGE_DESCRIPTION = 'ON_CHANGE_DESCRIPTION';
+export const ADD_TOTAL_AMOUNT_COLLECTED = 'ADD_TOTAL_AMOUNT_COLLECTED';
+export const SET_VALIDATE_SUBMIT = 'SET_VALIDATE_SUBMIT';

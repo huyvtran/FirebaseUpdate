@@ -1,0 +1,17 @@
+<resources>
+<!--    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey"></string>-->
+    <string name="app_name">Abivin vRoute v3.0</string>
+    <string name="facebook_app_id">486623041543610</string>
+    <string name="appTracking">Abivin Tracking</string>
+    <string name="appBundle">vapp.abivinh.com</string>
+
+
+    <!-- <string name="google_api_key">{{AIzaSyCi6g1bs2mz1B2cgdBYXM_9gmR1evDL3nw}}</string> -->
+<!--    <string name="CodePushPublicKey" moduleConfig="true">-->
+<!--    -&#45;&#45;&#45;&#45;BEGIN PUBLIC KEY-&#45;&#45;&#45;&#45;-->
+<!--MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAOKvRBPKjVncie2kkvr5S5hw9BMBQlSV-->
+<!--X8r803u4SzFd7Y+03oAfbOxvhLPcUiNu4SgxOGBNI8xYcaAXHB4si1sCAwEAAQ==-->
+<!-- -&#45;&#45;&#45;&#45;END PUBLIC KEY-&#45;&#45;&#45;&#45;-->
+<!--</string>-->
+<!--<string name="freshchat_file_provider_authority">com.abivin.vappx.provider</string>-->
+</resources>
