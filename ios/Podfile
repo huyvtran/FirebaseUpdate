@@ -8,11 +8,6 @@ target 'FirebaseUpdate' do
 
   use_react_native!(:path => config["reactNativePath"])
 
-  target 'FirebaseUpdateTests' do
-    inherit! :complete
-    # Pods for testing
-  end
-
   # Enables Flipper.
   #
   # Note that if you have use_frameworks! enabled, Flipper will not work and
@@ -20,14 +15,5 @@ target 'FirebaseUpdate' do
   use_flipper!
   post_install do |installer|
     flipper_post_install(installer)
-  end
-end
-
-target 'FirebaseUpdate-tvOS' do
-  # Pods for FirebaseUpdate-tvOS
-
-  target 'FirebaseUpdate-tvOSTests' do
-    inherit! :search_paths
-    # Pods for testing
   end
 end
